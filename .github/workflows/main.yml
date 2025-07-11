@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   build_and_deploy_wcgi_php_starter:
-    name: Build and Deploy WCGI PHP Starter Starter to Wasmer Edge
+    name: Build and Deploy xmm PHP  to Wasmer Edge
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
